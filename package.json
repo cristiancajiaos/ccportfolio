@@ -1,0 +1,25 @@
+{
+  "name": "ccportfolio",
+  "version": "1.0.0",
+  "description": "CC Portfolio",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal_user1:cristiancajiaos/ccportfolio.git"
+  },
+  "author": "cristian.cajiao@alumnos.usm.cl",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-express": "^1.4.1",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-open": "^0.2.4",
+    "grunt-parallel": "^0.5.1",
+    "load-grunt-tasks": "^5.1.0"
+  }
+}
